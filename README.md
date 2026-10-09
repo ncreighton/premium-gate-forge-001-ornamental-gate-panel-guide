@@ -1,0 +1,2 @@
+# premium-gate-forge-001-ornamental-gate-panel-guide
+You've got the skills to forge beautiful ornamental gates, but organizing panel designs, measurements, and client specifications across scattered notebooks is killing your productivity. The Ornamental Gate Panel Guide is a Notion template built specifically for gate forgers to systematize every detail of panel design from concept to installation.
